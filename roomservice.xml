@@ -2,6 +2,7 @@
 <manifest>
   </project>
   <project name="LineageOS/android_device_asus_Z008" path="device/asus/Z008" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_device_asus_Z00A" path="device/asus/Z00A" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_asus_mofd-common" path="device/asus/mofd-common" remote="github" revision="cm-14.1" />
   <project name="nutcasev15/Hololite" path="kernel/asus/moorefield" remote="github" revision="v4" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-14.1" />
