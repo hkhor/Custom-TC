@@ -4,17 +4,9 @@
   <project name="LineageOS/android_device_asus_Z008" path="device/asus/Z008" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_asus_Z00A" path="device/asus/Z00A" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_asus_mofd-common" path="device/asus/mofd-common" remote="github" revision="cm-14.1" />
-  <project name="nutcasev15/Hololite" path="kernel/asus/moorefield" remote="github" revision="v4" />
+  <project name="LineageOS/andriod_device_asus_moorefield" path="kernel/asus/moorefield" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
-  <project name="LineageOS/android_hardware_intel_img_hwcomposer" path="hardware/intel/img/hwcomposer" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_hardware_intel_common_libmix" path="hardware/intel/common/libmix" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_hardware_intel_img_psb_video" path="hardware/intel/img/psb/video" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_hardware_intel_common_libva" path="hardware/intel/common/libva" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_hardware_intel_common_libwsbm" path="hardware/intel/common/libwsbm" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_hardware_intel_common_omx-components" path="hardware/intel/common/omx-components" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_hardware_intel_common_utils" path="hardware/intel/common/utils" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_hardware_intel_img_psb_headers" path="hardware/intel/img/psb/headers" remote="github" revision="cm-14.1" />
 </manifest>
